@@ -9,4 +9,4 @@ Simple enter the number of threads and proxy settings (HTTP, Socks4, Socks5) and
 https://user-images.githubusercontent.com/104323125/164993576-ab283583-d488-4e0f-92bf-898cf8bcf6b0.mp4
 
 # Additional Info
-This is my first time making such a tool, and the code could be better. This is also my first account on GitHub and my first time using GitHub and even a mardkwon file, so please excuse any mistakes.
+This is my first time making such a tool, and the code could be better. This is also my first account on GitHub and my first time using GitHub and even a markdown file, so please excuse any mistakes.
