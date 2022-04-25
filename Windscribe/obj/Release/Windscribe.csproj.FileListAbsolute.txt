@@ -1,0 +1,13 @@
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Windscribe.exe.config
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Windscribe.exe
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Windscribe.pdb
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Colorful.Console.dll
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Leaf.xNet.dll
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Leaf.xNet.pdb
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\bin\Release\Leaf.xNet.xml
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\obj\Release\Windscribe.csproj.AssemblyReference.cache
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\obj\Release\Windscribe.csproj.SuggestedBindingRedirects.cache
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\obj\Release\Windscribe.csproj.CoreCompileInputs.cache
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\obj\Release\Windscribe.csproj.CopyComplete
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\obj\Release\Windscribe.exe
+D:\Projects\[!!!] Shadox\Windscribe\Windscribe\obj\Release\Windscribe.pdb
