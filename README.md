@@ -1,5 +1,5 @@
 # Description
-This is a proof of concept multi-threaded tool that can check up to 5,000 logins per minute (personal experience) for the Windscribe VPN service. This tool does **not** log subscription or data usage (*as of yet*).
+This is a proof of concept multi-threaded tool that can check up to 500 logins per minute (personal experience) for the Windscribe VPN service. This tool does **not** log subscription or data usage (*as of yet*).
 
 # Usage
 Simple enter the number of threads and proxy settings (HTTP, Socks4, Socks5) and watch the tool output valid logins in green while documenting things like CPM (checks per minute), hits, failed logins and errors in the console title.
