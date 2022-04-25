@@ -10,3 +10,8 @@ https://user-images.githubusercontent.com/104323125/164993576-ab283583-d488-4e0f
 
 # Additional Info
 This is my first time making such a tool, and the code could be better. This is also my first account on GitHub and my first time using GitHub and even a markdown file, so please excuse any mistakes.
+
+# Donations
+If you'd like to help me out, feel free to leave me a donation.
+BTC: 1DWZTn48Fg5bEmbKZjg56jpEBdDPKV5arX
+Monero: 83xxWBggcJVGu1D8LM6Ym5LM8qx1kx2WVbBwBULkk1TdThvR9wc519ZTXEiV34CfcpAfEyxHTF6nxcXdDNuuMJP75kof2bJ
