@@ -4,7 +4,9 @@ This is a proof of concept multi-threaded tool that can check up to 500 logins p
 # Usage
 Simple enter the number of threads and proxy settings (HTTP, Socks4, Socks5) and watch the tool output valid logins in green while documenting things like CPM (checks per minute), hits, failed logins and errors in the console title.
 
+Hits are automatically saved to hits.txt, and are not overwritten on repeat usage. Hits will not be skipped, if an error occurs the thread checking that specific combo will keep retrying until it knows its a good or bad combo.
 
+Locked accounts for security reasons are also automatically detected.
 
 https://user-images.githubusercontent.com/104323125/164993576-ab283583-d488-4e0f-92bf-898cf8bcf6b0.mp4
 
